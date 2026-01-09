@@ -5,5 +5,5 @@ chroma_db/
 pdfs/
 *.pdf
 .DS_Store
-venv/
-env/
+.venv/
+.env/

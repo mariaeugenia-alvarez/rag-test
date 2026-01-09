@@ -1,4 +1,4 @@
-pypdf2
+pypdf==4.2.0
 langchain
 langchain-community
 langchain-openai
